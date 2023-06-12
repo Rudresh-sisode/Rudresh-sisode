@@ -2,7 +2,8 @@
 - 👀 I do work in computer sciecne 
 - 🌱 "If you don't use it, You'll loose it || I writes code as much as poet writes poems"
 - 💞️ You don't understand everything, but you need to push yourself to understand everything
-- 📫 If( Core == High && Skills in Progress)
+-   
+-   if( Core == High && Skills in Progress)
 -     {
 -         ego = attitude = 99.99;
 -     }
